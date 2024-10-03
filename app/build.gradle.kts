@@ -11,11 +11,11 @@ plugins {
 }
 
 android {
-    namespace = "com.yesitlab.room"
+    namespace = "com.example.room"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.yesitlab.room"
+        applicationId = "com.example.room"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
