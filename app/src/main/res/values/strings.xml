@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="submit">Submit</string>
+    <string name="enter_age">enter age</string>
+    <string name="enter_name">enter name</string>
+    <string name="update_here">Update Here</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_user_age">Enter User Age</string>
+    <string name="add_user">Add User</string>
+    <string name="delete_user">Delete User</string>
+</resources>
